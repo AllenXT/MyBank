@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/account.dir/src/account/account.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/account/account.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/account/account.cpp",
+  "output": "CMakeFiles/account.dir/src/account/account.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/account.dir/src/account/account_factory.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_factory.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_factory.cpp",
+  "output": "CMakeFiles/account.dir/src/account/account_factory.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/account.dir/src/account/account_manager.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_manager.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_manager.cpp",
+  "output": "CMakeFiles/account.dir/src/account/account_manager.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/account.dir/src/account/account_visitor.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_visitor.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/account/account_visitor.cpp",
+  "output": "CMakeFiles/account.dir/src/account/account_visitor.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/transaction.dir/src/transaction/transaction.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/transaction/transaction.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/transaction/transaction.cpp",
+  "output": "CMakeFiles/transaction.dir/src/transaction/transaction.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/transaction.dir/src/transaction/transaction_manager.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/src/transaction/transaction_manager.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/src/transaction/transaction_manager.cpp",
+  "output": "CMakeFiles/transaction.dir/src/transaction/transaction_manager.cpp.o"
+},
+{
+  "directory": "/Users/Tian/UChicago/Adv_C++/MyBank/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/main.dir/main.cpp.o -c /Users/Tian/UChicago/Adv_C++/MyBank/main.cpp",
+  "file": "/Users/Tian/UChicago/Adv_C++/MyBank/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
